@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "text": "ke mars",
+      "created_at": 1717908103368,
+      "status": 1,
+      "id": "064d"
+    },
+    {
+      "id": "5969",
+      "text": "ke bulam",
+      "created_at": 1717908106176,
+      "status": 0
+    },
+    {
+      "id": "3bca",
+      "text": "ke jupiter",
+      "created_at": 1717908110891,
+      "status": 0
+    }
+  ]
+}
